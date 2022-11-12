@@ -1,0 +1,56 @@
+.firstpart{
+    
+    font-family: 'Ubuntu', sans-serif;
+}
+.carousel{
+    text-align: center;
+    background-color: antiquewhite;
+    font-family: 'Ubuntu', sans-serif;
+  
+}
+/* .contai{
+    /* display: flex;
+    flex-wrap: wrap;
+    justify-content: center; */
+   
+
+.ipad{
+    width:80vw;
+    text-align: center;
+}
+.large{
+    width:97vw;
+}
+.iphoneforty{
+    text-align: center;
+    
+}
+.row{
+    padding: 2px;
+}
+.pod{
+    padding: 1px;
+}
+.endcard{
+    background-color: #cce8dc;
+    font-size: small;
+    
+    font-family: 'Ubuntu', sans-serif;
+    animation-name: end;
+    animation-duration:10s;
+    animation-iteration-count: infinite;
+}
+@keyframes end{
+    100%{
+        background-color: rgb(155, 123, 185);
+        color: antiquewhite;
+    }
+}
+
+
+hr{ 
+    width: 50%;
+    border-style: dotted;
+    border-color: aliceblue;
+}
+
